@@ -1,5 +1,5 @@
 # IfEverythingGoesBad
-
+```
 Fontos!
 Lehet használni a github-ot, de mindenki csak a SAJÁTJÁRÓL tudja lehúzni a dolgokat!
 Sajnos kiderül a vizsgán ha mástól húztuk le a cuccot!
@@ -143,3 +143,4 @@ fájlba.
 És akkor ennyi lett volna a B tétel.
 Természetesen ez sem 100%, ugyanis aranyhal reinkarnációja vagyok, és rossz az
 emlékezőképességem. 
+```
